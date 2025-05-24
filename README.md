@@ -31,7 +31,7 @@ pip install pandas matplotlib numpy datetime csv
 
 ---
 
-🔑 User Instructions
+### 🔑 User Instructions
 Upon running, the program offers a menu:
 1. Add new Transaction
 2. View Transaction Summary
@@ -39,5 +39,5 @@ Upon running, the program offers a menu:
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
 Developed by Pranav Amrutkar.
